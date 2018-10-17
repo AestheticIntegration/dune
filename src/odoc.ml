@@ -248,7 +248,7 @@ module Gen (S : sig val sctx : SC.t end) = struct
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
   </head>
-  <body>
+  <body><nav></nav>
     <main class="content">
       <div class="by-name">
       <h2>OCaml package documentation</h2>
